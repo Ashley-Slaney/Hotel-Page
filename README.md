@@ -1,2 +1,2 @@
 # Hotel-Page
-Small HTML and CSS only page
+A responsive web page I created using HTML and CSS with media queries for smaller screens.
